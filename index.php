@@ -35,7 +35,7 @@
         <div id="media">
 
         </div>
-        <img src="" id="right">
+        <img src="/images/arrow-right.png" id="right">
     </div>
     <div id="main" class="clearfix">
         <div id="news">
